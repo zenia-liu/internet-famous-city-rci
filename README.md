@@ -17,4 +17,4 @@
 - **[林霖]** (论文撰写)
 
 ## 如何访问在线分析面板
-[此处稍后填入你的 GitHub Pages 链接]
+[[网红城市“流量”与“留量”转化研究及城市承接力诊断系统 (RCI)](https://zenia-liu.github.io/internet-famous-city-rci/)]
