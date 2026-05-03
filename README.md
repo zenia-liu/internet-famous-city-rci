@@ -1,2 +1,20 @@
-# internet-famous-city-rci-
-From "explosive" to "long-lasting" popularity: quantifying city reception capacity for internet-famous tourism surges. Includes research paper, DID/TOPSIS models, and a Bloomberg-style diagnostic dashboard. 网红城市"流量"变"留量"：承接力诊断模型与可视化面板
+# 网红城市“流量”与“留量”转化研究及城市承接力诊断系统 (RCI)
+
+本课题旨在探讨网络短期热度（流量）如何有效转化为人口与经济层面的长期存留（留量）。
+
+## 核心成果
+- **学术论文**：构建了“媒介流量—行为转化—结构性留量”分析框架。
+- **分析面板**：基于 RCI 模型（City Reception Capacity Index）的交互式可视化诊断系统。
+
+## 研究亮点
+- **多维指标体系**：涵盖人口留存率 (PRR)、经济活力留存得分 (EVS) 及商业业态熵值 (H)。
+- **双源流量测度**：基于抖音搜索指数与百度资讯指数合成 CPI 指数。
+- **城市承接力诊断**：通过 TOPSIS 法构建 RCI 指数，识别城市在旅游服务、交通、产业基础等维度的短板。
+
+## 团队署名
+- **[刘乐乐]** (数据搜集与处理、编程开发与系统实现)
+- **[康妤冉]** (建模、数据搜集)
+- **[林霖]** (论文撰写)
+
+## 如何访问在线分析面板
+[此处稍后填入你的 GitHub Pages 链接]
